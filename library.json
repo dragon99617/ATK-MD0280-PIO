@@ -1,0 +1,27 @@
+{
+  "name": "ATK-MD0280-PIO",
+  "version": "1.0.0",
+  "description": "TFT LCD driver library for ALIENTEK ATK-MD0280 (2.8 inch) on STM32F407ZGT6 (Explorer Board).",
+  "keywords": ["stm32",
+    "stm32f407",
+    "alientek",
+    "display",
+    "lcd",
+    "tft",
+    "atk-md0280",
+    "fsmc"
+],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragon99617/ATK-MD0280-PIO.git"
+  },
+  "authors": [
+    {
+      "name": "唐锆羽",
+      "email": "tanggaoyu050059@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["stm32cube"], 
+  "platforms": ["ststm32"]
+}
