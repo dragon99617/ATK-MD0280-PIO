@@ -1,4 +1,4 @@
-# ATK-MD0280-LCD Library for PlatformIO
+# ATK-MD0280-PIO Library for PlatformIO
 
 本项目是为**正点原子 (ALIENTEK) STM32F407ZGT6 探索者开发板**移植的 **ATK-MD0280** (2.8寸 TFT LCD) 屏幕驱动库。
 
@@ -14,4 +14,4 @@
 
 ```ini
 lib_deps = 
-    dragon99617/ATK-MD0280-LCD
+    dragon99617/ATK-MD0280-PIO
